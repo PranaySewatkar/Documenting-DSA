@@ -14,3 +14,6 @@ In this repository , I am gonna documenting my DSA Journey
 * Loops in java
 * Switch & nested switch statements
 
+## Day 3:
+* Pattern questions
+
