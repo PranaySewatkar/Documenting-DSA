@@ -1,5 +1,6 @@
 ## Documenting-DSA
-In this repository , I am gonna documenting my DSA Journey
+In this repository , I am documenting my DSA journey and 
+update daily progress of mine 
 
 ## Day 1:
 * Intro to programming
