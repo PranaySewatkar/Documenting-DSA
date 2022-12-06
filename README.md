@@ -3,18 +3,21 @@ In this repository , I am documenting my DSA journey and
 update daily progress of mine 
 
 ## Day 1:
-* Intro to programming
-* Memory management in java
-* Flow charts and Pseudo code
-* First java program
+[x] Intro to programming
+[x] Memory management in java
+[x] Flow charts and Pseudo code
+[x] First java program
 
 ## Day 2:
   ### Solved some questions on:
   
-* If-else & nested if-else statements
-* Loops in java
-* Switch & nested switch statements
+[x] If-else & nested if-else statements
+[x] Loops in java
+[x] Switch & nested switch statements
 
 ## Day 3:
-* Pattern questions
+[x] Pattern questions
+
+## Day 4:
+[x] Time and Space complexity
 
