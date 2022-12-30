@@ -1,8 +1,10 @@
-## Documenting-DSA
+## Documenting-DSA #100daysofdsa
+
+
 In this repository , I am documenting my DSA journey and 
 update daily progress of mine 
 
-## Day 1:
+## Day 1: of 
 <ul>
 <li> Intro to programming</li>
 <li>Memory management in java</li>
