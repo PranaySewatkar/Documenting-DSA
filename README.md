@@ -1,32 +1,25 @@
-## Documenting-DSA 
+# Documenting my Data Structures and Algorithm Journey
 
 
-In this repository , I am documenting my DSA journey and 
+In this repository, I am documenting my DSA journey and 
 update daily progress of mine 
 
-## Day 1: 
-<ul>
-<li> Intro to programming</li>
-<li>Memory management in java</li>
-<li>Flow charts and Pseudo code</li>
-<li> First java program</li>
-</ul>
+## Day 1: Basics
+- [x] Intro to programming.
+- [x] Memory management in java.
+- [x] Flow charts and Pseudo code.
+- [x] First java program.
 
-## Day 2:
-  ### Solved some questions on:
- <ul>
-<li>If-else & nested if-else statements</li>
-<li>Loops in java</li>
-<li>Switch & nested switch statements</li>
-</ul>
 
-## Day 3:
-<ul>
-<li>Pattern questions</li>
-</ul>
+## Day 2: Solved some questions on:
+ 
+- [x] If-else & nested if-else statements
+- [x] Loops in java
+- [x] Switch & nested switch statements
 
-## Day 4:
-<ul>
-<li>Time and Space complexity</li>
-</ul>
+
+## Day 3: Functions:
+
+
+## Day 4: Time and Space Complexity
 
