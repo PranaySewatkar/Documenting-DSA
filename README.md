@@ -19,7 +19,15 @@ update daily progress of mine
 
 
 ## Day 3: Functions:
+- [x] learn fucntions in java and solved 
+assignment question from kunal kushwaha DSA course
 
 
 ## Day 4: Time and Space Complexity
+
+
+## DAy 5 Pattern 
+- [x] solve pattern question
+
+
 
